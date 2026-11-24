@@ -13,5 +13,6 @@
     "compressor"
   ],
   "min_os": "3.10.1",
-  "asset_pattern": "*-mpc-aarch64.zip"
+  "asset_pattern": "*-mpc-aarch64.zip",
+  "screenshot": "https://raw.githubusercontent.com/HEADDRUMZ/HEADDRUMZ-KNOCK/5fd6e010d33f3659c9efd04877b11dad13d0aa50/knock-v0.4.8-catalog-preview.png"
 }
