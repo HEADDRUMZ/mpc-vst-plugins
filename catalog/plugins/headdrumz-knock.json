@@ -1,0 +1,17 @@
+{
+  "id": "headdrumz-knock",
+  "name": "KNOCK",
+  "author": "HEADDRUMZ",
+  "repo": "HEADDRUMZ/HEADDRUMZ-KNOCK",
+  "kind": "effect",
+  "license": "MIT",
+  "summary": "Free drum impact effect for kicks and 808s, with transient shaping, saturation, EQ and level-matched A/B. Tested on MPC XL Standalone.",
+  "tags": [
+    "drums",
+    "transient-shaper",
+    "saturation",
+    "compressor"
+  ],
+  "min_os": "3.10.1",
+  "asset_pattern": "*-mpc-aarch64.zip"
+}
