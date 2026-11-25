@@ -5,7 +5,7 @@
   "repo": "HEADDRUMZ/HEADDRUMZ-KNOCK",
   "kind": "effect",
   "license": "MIT",
-  "summary": "Free drum impact effect for kicks and 808s, with transient shaping, saturation, EQ and level-matched A/B. Tested on MPC XL Standalone.",
+  "summary": "Free drum impact effect for kicks and 808s, with transient shaping, saturation, EQ and level-matched A/B. Gen 2 MPCs only, MPC OS 3.10.1 or later.",
   "tags": [
     "drums",
     "transient-shaper",
